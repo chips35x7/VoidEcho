@@ -57,11 +57,11 @@ LXNGVX, Warriyo - Mortals (Funk Remix)
 Lost Sky - Lost
 
 🖼️ 3D Asset Credits
-Enemy Model by Tony Flanagan – View Model
+Enemy Model by Tony Flanagan – [View Model](https://www.fab.com/zh-cn/listings/a5710c50-a98e-4b55-98f8-c0a0f8318a84)
 
-Gun Model by Mateusz Woliński – View Model
+Gun Model by Mateusz Woliński – [View Model](https://sketchfab.com/3d-models/ak-47-c73d1429d16e4a02b48025046e20db50)
 
-Knife Model by jagdoe – View Model
+Knife Model by jagdoe – [View Model](https://free3d.com/3d-model/survival-knife-36034.html)
 
 💡 Developer's Note
 VoidEcho is more than just a game project—it’s a blend of three of my favorite things:
